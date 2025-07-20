@@ -30,4 +30,4 @@ PharmaCare is a Java-based Pharmacy Management System for managing customers, su
 - Only push source files and assets.
 
 ## License
-Specify your license here if needed.
+MIT
