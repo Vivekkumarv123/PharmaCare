@@ -1,0 +1,13 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS generated files
+Thumbs.db
+.DS_Store
+
+# Ignore IDE files
+*.iml
+.idea/
